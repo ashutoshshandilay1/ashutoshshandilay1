@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshshandilay1" alt="ashutoshshandilay1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ashutosh_shandilay" target="blank"><img src="https://img.shields.io/twitter/follow/ashutosh_shandilay?logo=twitter&style=for-the-badge" alt="ashutosh_shandilay" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashutosh9733" target="blank"><img src="https://img.shields.io/twitter/follow/ashutosh9733?logo=twitter&style=for-the-badge" alt="ashutosh9733" /></a> </p>
 
 - 🔭 I’m currently working on **Home Rent Out MERN Stack Project.**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashutosh_shandilay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutosh_shandilay" height="30" width="40" /></a>
+<a href="https://twitter.com/ashutosh9733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashutosh9733" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashutoshshandilay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutoshshandilay" height="30" width="40" /></a>
 <a href="https://fb.com/ashandilay2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashandilay2" height="30" width="40" /></a>
 <a href="https://instagram.com/ashutosh_shandilay143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutosh_shandilay143" height="30" width="40" /></a>
