@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutoshshandilay1" alt="ashutoshshandilay1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ashutosh9733" target="blank"><img src="https://img.shields.io/twitter/follow/ashutosh9733?logo=twitter&style=for-the-badge" alt="ashutosh9733" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ashutoshshandilay" target="blank"><img src="https://img.shields.io/twitter/follow/ashutosh9733?logo=twitter&style=for-the-badge" alt="ashutosh9733" /></a> </p>
 
 - 🔭 I’m currently working on **Home Rent Out MERN Stack Project.**
 
